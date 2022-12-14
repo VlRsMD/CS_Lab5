@@ -314,5 +314,6 @@ response.setContentType("text/html");
 
 The results of running the application are the following, as an example:
 ![img.png](img.png)
+
 After clicking the “Log in” button the admin gets authenticated and authorized as admin:
 ![img_1.png](img_1.png)
