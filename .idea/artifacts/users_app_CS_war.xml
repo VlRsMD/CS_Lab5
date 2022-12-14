@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="users_app_CS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>users_app_CS</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="users_app_CS-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="users_app_CS:war exploded" />
+    </root>
+  </artifact>
+</component>
